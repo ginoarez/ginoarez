@@ -159,12 +159,3 @@ Indicadores y estrategias algorítmicas: detección OB/FVG/BOS y sistema Turtle 
 <div align="center">
 <sub>github.com/ginoarez · ginoarez.github.io</sub>
 </div>
-
-<!--
-NOTAS DE USO
-1. Este archivo va en un repo llamado exactamente "ginoarez" (repo especial de perfil).
-2. Todas las tarjetas leen el usuario "ginoarez" — ya están configuradas.
-3. Para que las stats cuenten repos privados: instala github-readme-stats como GitHub App
-   o despliega tu propia instancia en Vercel con un PAT.
-4. Cambia los enlaces de cada proyecto envolviendo el título:  ### [MiniMythos](https://github.com/ginoarez/minimythos)
--->
