@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="619" height="279"
+     viewBox="0 0 619 279" role="img" aria-label="Software Engineering">
+  <defs>
+    <clipPath id="wipe">
+      <rect x="0" y="0" height="279" width="0">
+        <animate attributeName="width" values="0;619;619;0"
+                 keyTimes="0;0.3;0.86;1" dur="7.0s"
+                 repeatCount="indefinite" calcMode="spline" keySplines="0.2 0 0.1 1;0 0 1 1;0.6 0 0.2 1"/>
+      </rect>
+    </clipPath>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#fff" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="619" height="279" rx="10" fill="#0A0A0A"/>
+  <rect x="0.5" y="0.5" width="618" height="278" rx="10"
+        fill="none" stroke="#1A1A1A"/>
+
+  <g clip-path="url(#wipe)" font-family="monospace" font-size="13.0" fill="#ffffff">
+    
+    <text y="39.0"><tspan x="98.8" dy="0" xml:space="preserve"> _____  ___________ _____ _    _  ___  ______ _____ </tspan><tspan x="98.8" dy="16.6" xml:space="preserve">/  ___||  _  |  ___|_   _| |  | |/ _ \ | ___ \  ___|</tspan><tspan x="98.8" dy="16.6" xml:space="preserve">\ `--. | | | | |_    | | | |  | / /_\ \| |_/ / |__  </tspan><tspan x="98.8" dy="16.6" xml:space="preserve"> `--. \| | | |  _|   | | | |/\| |  _  ||    /|  __| </tspan><tspan x="98.8" dy="16.6" xml:space="preserve">/\__/ /\ \_/ / |     | | \  /\  / | | || |\ \| |___ </tspan><tspan x="98.8" dy="16.6" xml:space="preserve">\____/  \___/\_|     \_/  \/  \/\_| |_/\_| \_\____/ </tspan></text>
+    <text y="148.6"><tspan x="34.0" dy="0" xml:space="preserve"> _____ _   _ _____ _____ _   _  _____ ___________ _____ _   _ _____ </tspan><tspan x="34.0" dy="16.6" xml:space="preserve">|  ___| \ | |  __ \_   _| \ | ||  ___|  ___| ___ \_   _| \ | |  __ \</tspan><tspan x="34.0" dy="16.6" xml:space="preserve">| |__ |  \| | |  \/ | | |  \| || |__ | |__ | |_/ / | | |  \| | |  \/</tspan><tspan x="34.0" dy="16.6" xml:space="preserve">|  __|| . ` | | __  | | | . ` ||  __||  __||    /  | | | . ` | | __ </tspan><tspan x="34.0" dy="16.6" xml:space="preserve">| |___| |\  | |_\ \_| |_| |\  || |___| |___| |\ \ _| |_| |\  | |_\ \</tspan><tspan x="34.0" dy="16.6" xml:space="preserve">\____/\_| \_/\____/\___/\_| \_/\____/\____/\_| \_|\___/\_| \_/\____/</tspan></text>
+  </g>
+
+  <rect x="0" y="26" width="619" height="24" fill="url(#scan)">
+    <animate attributeName="y" values="26;248;26"
+             dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="0" y="28" width="2" height="218" fill="#fff">
+    <animate attributeName="x" values="0;617;617;0"
+             keyTimes="0;0.3;0.86;1" dur="7.0s"
+             repeatCount="indefinite" calcMode="spline" keySplines="0.2 0 0.1 1;0 0 1 1;0.6 0 0.2 1"/>
+    <animate attributeName="opacity" values="1;1;0;1;1"
+             keyTimes="0;0.45;0.5;0.95;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <text font-family="monospace" font-size="10" fill="#7d7d7d" letter-spacing="5" x="309" y="274" text-anchor="middle" opacity="0">
+    SECURITY  ·  SYSTEMS  ·  MOBILE
+    <animate attributeName="opacity" values="0;0;0.95;0.95;0"
+             keyTimes="0;0.3;0.35;0.86;1"
+             dur="7.0s" repeatCount="indefinite"/>
+  </text>
+</svg>
