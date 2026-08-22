@@ -32,7 +32,7 @@ Status    →  Open to collaboration
 
 <img src="https://cdn.simpleicons.org/cplusplus" alt="C++" title="C++" height="26" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/rust/E43717" alt="Rust" title="Rust" height="26" />&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/windows" alt="Windows" title="Windows" height="26" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="Windows" title="Windows" height="26" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/gnubash" alt="Bash" title="Bash" height="26" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/cmake" alt="CMake" title="CMake" height="26" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/kotlin" alt="Kotlin" title="Kotlin" height="26" />&nbsp;&nbsp;
@@ -58,11 +58,6 @@ Status    →  Open to collaboration
 ## Activity
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ginoarez&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0A0A0A&title_color=FFFFFF&text_color=B0B0B0&icon_color=FFFFFF&ring_color=FFFFFF" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginoarez&layout=compact&langs_count=8&hide_border=true&bg_color=0A0A0A&title_color=FFFFFF&text_color=B0B0B0" height="170" />
-
-<br><br>
 
 <img src="https://streak-stats.demolab.com?user=ginoarez&hide_border=true&background=0A0A0A&border=1A1A1A&stroke=1A1A1A&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=B0B0B0&dates=707070" width="500" />
 
