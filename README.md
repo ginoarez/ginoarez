@@ -19,7 +19,7 @@ Prefiero construir cosas completas y enviarlas antes que acumular prototipos.
 Todo lo que ves aquí salió de iniciativa propia, no de un ticket asignado.
 
 ```
-Focus     →  Endpoint security · Mobile engineering
+Focus     →  Endpoint security · Mobile engineering . Full-Stack
 Location  →  San Luis Potosí, México
 Status    →  Open to collaboration
 ```
