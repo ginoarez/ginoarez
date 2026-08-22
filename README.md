@@ -55,6 +55,3 @@ Tooling              Git ── Docker ── Linux ── SQLite
 <div align="center">
 <sub>github.com/ginoarez · ginoarez.github.io</sub>
 </div>
-3. Para que las stats cuenten repos privados: instala github-readme-stats como GitHub App
-   o despliega tu propia instancia en Vercel con un PAT.
--->
