@@ -28,37 +28,30 @@ Status    →  Open to collaboration
 
 ## Stack
 
-**Systems & Security**
+<div align="center">
 
-<img src="https://cdn.simpleicons.org/cplusplus/FFFFFF" alt="C++" title="C++" height="24" />
-<img src="https://cdn.simpleicons.org/rust/FFFFFF" alt="Rust" title="Rust" height="24" />
-<img src="https://cdn.simpleicons.org/windows/FFFFFF" alt="Windows" title="Windows" height="24" />
-<img src="https://cdn.simpleicons.org/gnubash/FFFFFF" alt="Bash" title="Bash" height="24" />
-<img src="https://cdn.simpleicons.org/cmake/FFFFFF" alt="CMake" title="CMake" height="24" />
+<img src="https://cdn.simpleicons.org/cplusplus" alt="C++" title="C++" height="26" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/rust/E43717" alt="Rust" title="Rust" height="26" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/windows" alt="Windows" title="Windows" height="26" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/gnubash" alt="Bash" title="Bash" height="26" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/cmake" alt="CMake" title="CMake" height="26" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/kotlin" alt="Kotlin" title="Kotlin" height="26" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/jetpackcompose" alt="Jetpack Compose" title="Jetpack Compose" height="26" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/flutter/47C5FB" alt="Flutter" title="Flutter" height="26" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/dart/2BB7F6" alt="Dart" title="Dart" height="26" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/android" alt="Android" title="Android" height="26" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/python/4B8BBE" alt="Python" title="Python" height="26" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/fastapi" alt="FastAPI" title="FastAPI" height="26" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/postgresql/5A8DEE" alt="PostgreSQL" title="PostgreSQL" height="26" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/redis" alt="Redis" title="Redis" height="26" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" title="TypeScript" height="26" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" alt="Next.js" title="Next.js" height="26" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/git" alt="Git" title="Git" height="26" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker" height="26" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/linux" alt="Linux" title="Linux" height="26" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/sqlite/4BA8D6" alt="SQLite" title="SQLite" height="26" />&nbsp;&nbsp;
 
-**Mobile**
-
-<img src="https://cdn.simpleicons.org/kotlin/FFFFFF" alt="Kotlin" title="Kotlin" height="24" />
-<img src="https://cdn.simpleicons.org/jetpackcompose/FFFFFF" alt="Jetpack Compose" title="Jetpack Compose" height="24" />
-<img src="https://cdn.simpleicons.org/flutter/FFFFFF" alt="Flutter" title="Flutter" height="24" />
-<img src="https://cdn.simpleicons.org/dart/FFFFFF" alt="Dart" title="Dart" height="24" />
-<img src="https://cdn.simpleicons.org/android/FFFFFF" alt="Android" title="Android" height="24" />
-
-**Backend & Web**
-
-<img src="https://cdn.simpleicons.org/python/FFFFFF" alt="Python" title="Python" height="24" />
-<img src="https://cdn.simpleicons.org/fastapi/FFFFFF" alt="FastAPI" title="FastAPI" height="24" />
-<img src="https://cdn.simpleicons.org/postgresql/FFFFFF" alt="PostgreSQL" title="PostgreSQL" height="24" />
-<img src="https://cdn.simpleicons.org/redis/FFFFFF" alt="Redis" title="Redis" height="24" />
-<img src="https://cdn.simpleicons.org/typescript/FFFFFF" alt="TypeScript" title="TypeScript" height="24" />
-<img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" alt="Next.js" title="Next.js" height="24" />
-
-**Tooling**
-
-<img src="https://cdn.simpleicons.org/git/FFFFFF" alt="Git" title="Git" height="24" />
-<img src="https://cdn.simpleicons.org/docker/FFFFFF" alt="Docker" title="Docker" height="24" />
-<img src="https://cdn.simpleicons.org/linux/FFFFFF" alt="Linux" title="Linux" height="24" />
-<img src="https://cdn.simpleicons.org/sqlite/FFFFFF" alt="SQLite" title="SQLite" height="24" />
+</div>
 
 <br>
 
